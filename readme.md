@@ -1,4 +1,4 @@
-# SRT LINK
+# SRT LNK
 
 SRTLNK - Short Link
 
