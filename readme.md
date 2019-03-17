@@ -2,9 +2,9 @@
 
 SRTLNK - Short Link
 
-This is a link shortener application based off the react/meteor framework.
+This is a link shortener application based off the React/Meteor framework.
 
-Part of the Meteor/React course by Andrew Mead on Udemy.
+Part of the React/Meteor course by Andrew Mead on Udemy.
 
 ## Authors
 
